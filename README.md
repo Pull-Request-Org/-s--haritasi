@@ -1,1 +1,1 @@
-# -s--haritasi
+# Isı Haritası
